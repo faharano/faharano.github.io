@@ -84,6 +84,7 @@ footer {
   text-align: center;
   padding-top: 50px;
   color: #ccc;
+  clear: both;
 }
 
 .social-icon {
@@ -187,7 +188,7 @@ nav {
 
 /*links*/
 a {
-  color: ##6ab47b;
+  color: #6ab47b;
 }
 
 /*nav link*/
